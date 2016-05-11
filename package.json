@@ -1,0 +1,27 @@
+{
+  "name": "node-file-downloader",
+  "version": "0.0.1",
+  "description": "A sample (educational) crawler to download files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnJavaScripter/node-file-downloader.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "UnJavaScripter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnJavaScripter/node-file-downloader/issues"
+  },
+  "homepage": "https://github.com/UnJavaScripter/node-file-downloader#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}
